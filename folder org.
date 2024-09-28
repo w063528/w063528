@@ -1,0 +1,36 @@
+/my_github_blog/
+│
+├── pelicanconf.py
+├── publishconf.py
+├── task.py
+├── Makefile
+├── folder org.
+├── content/
+│   └── bmc.qr.png
+├─ output/
+│   ├── archives.html
+│   ├── authors.html
+│   ├── categories.html
+│   ├── index.html
+│   ├── tag.html
+│   └──  README.md
+│   └── theme/
+│   │   ├── css/
+│   │   │   ├── fonts.css
+│   │   │   ├──main.css
+│   │   │   ├──pygment.css
+│   │   │   ├──reset.css
+│   │   │   ├── typogrify.css
+│   │   │   └── wide.css
+│   │   └─ fonts/
+│   │   │   ├── Yanone_Kaffeesatz_400.eot
+│   │   │   ├── Yanone_Kaffeesatz_400.svg
+│   │   │   ├── Yanone_Kaffeesatz_400.ttf
+│   │   │   ├── Yanone_Kaffeesatz_400.woff
+│   │   │   ├── Yanone_Kaffeesatz_400.woff2
+│   │   │   └── Yanone_Kaffeesatz_LICENSE.txt
+└─ venv
+│   ├── bin/
+│   ├── include/
+│   ├── lib/
+└─  └── pyvenv.cfg
